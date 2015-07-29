@@ -27,3 +27,4 @@ Name: Repeater
 Version: 2.0
 Copyright: 2015 RamondettiDavide Spa
 Create Data: 29/07/2015
+PRO: no
